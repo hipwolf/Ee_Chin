@@ -2,22 +2,19 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+✉️: hipwolf@gmail.com 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/eechin/) 
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://avatars.githubusercontent.com/hipwolf)
 
 <!-- Add your details -->
 
-RAWRRRR I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
-
+I am __Chow Ee Chin__, a experienced wealth manager with a working history in banks. I have taken up to learning Python as an additional skill set in my journey to be a M shaped skilled person.
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
@@ -30,22 +27,21 @@ RAWRRRR I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of prog
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### Standard Chartered Bank
+Associate Relationship Manager Prority Client<br>
+Jul 2019 - Aug 2021 · 2 yrs 2 months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Front Office Wealth Management
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Working with clients on their wealth management needs and planning their finances and insurance.
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### SUSS
+Degree in Business
 
 <!-- EDUCATION Section Ends -->
 
@@ -54,7 +50,7 @@ Engineering Graduate 2010-14, First Division
 <!-- Add your details -->
 
 [Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
+<!-- [Regression based projects](#regression-based-projects) <br> -->
 
 <!-- Add your details -->
 
@@ -65,21 +61,21 @@ In machine learning, classification refers to a predictive modeling problem wher
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
-#### Regression based projects
+<!-- #### Regression based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
-
+ -->
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+PMP
 
 ##### Achievements
-Star performer of the year at Accenture
+Top Investment Banker
 <!-- FEATURED Section Ends -->
